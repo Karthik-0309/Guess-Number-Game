@@ -19,12 +19,6 @@ Welcome to the "Guess My Number" game! A fun, interactive guessing game built us
 
 ---
 
-## 📸 Screenshot
-
-![Game Screenshot](./image.png)
-
----
-
 ## 🧪 Technologies Used
 
 - **HTML5**
