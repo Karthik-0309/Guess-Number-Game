@@ -57,11 +57,6 @@ Welcome to the "Guess My Number" game! A fun, interactive guessing game built us
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Your Name]  
-*(Feel free to replace with your name or GitHub link)*
+Made with ❤️ by Karthik Kashyap R P
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
